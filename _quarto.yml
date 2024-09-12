@@ -5,7 +5,7 @@ project:
 website:
   title: "a_quarto_website"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
